@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView - How to draw company names in an exported document
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t332460/)**
+<!-- run online end -->
 
 
 This example shows you how to draw company names in an exported document based on the number of products. Company names are painted in Green if the product count is greater than 1,000. Otherwise, the company names are painted in Red.
